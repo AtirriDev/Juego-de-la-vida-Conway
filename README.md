@@ -39,4 +39,4 @@ Ejemplo de relaciones de una celula
  NÚMERO 4 : Toda célula muerta puede revivir si tiene exactamente 3 vecinos vivos a su alrededor , y si hay que ponerle un poco de fantasia zombie al sistema.
 
 
- Consideracion importante el juego esta desarrolado con  C# en .net 8.0 , para probarlo usar la version de visual studio 2022
+ **Consideracion importante el juego esta desarrolado con  C# en .net 8.0 , para probarlo usar la version de visual studio 2022**
